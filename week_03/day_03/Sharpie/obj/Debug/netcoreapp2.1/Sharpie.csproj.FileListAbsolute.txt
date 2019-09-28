@@ -1,0 +1,11 @@
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\bin\Debug\netcoreapp2.1\Sharpie.deps.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\bin\Debug\netcoreapp2.1\Sharpie.runtimeconfig.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\bin\Debug\netcoreapp2.1\Sharpie.runtimeconfig.dev.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\bin\Debug\netcoreapp2.1\Sharpie.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\bin\Debug\netcoreapp2.1\Sharpie.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\obj\Debug\netcoreapp2.1\Sharpie.csprojAssemblyReference.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\obj\Debug\netcoreapp2.1\Sharpie.csproj.CoreCompileInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\obj\Debug\netcoreapp2.1\Sharpie.AssemblyInfoInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\obj\Debug\netcoreapp2.1\Sharpie.AssemblyInfo.cs
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\obj\Debug\netcoreapp2.1\Sharpie.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Sharpie\obj\Debug\netcoreapp2.1\Sharpie.pdb

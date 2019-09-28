@@ -1,0 +1,11 @@
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\bin\Debug\netcoreapp2.1\Counter.deps.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\bin\Debug\netcoreapp2.1\Counter.runtimeconfig.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\bin\Debug\netcoreapp2.1\Counter.runtimeconfig.dev.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\bin\Debug\netcoreapp2.1\Counter.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\bin\Debug\netcoreapp2.1\Counter.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\obj\Debug\netcoreapp2.1\Counter.csprojAssemblyReference.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\obj\Debug\netcoreapp2.1\Counter.csproj.CoreCompileInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\obj\Debug\netcoreapp2.1\Counter.AssemblyInfoInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\obj\Debug\netcoreapp2.1\Counter.AssemblyInfo.cs
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\obj\Debug\netcoreapp2.1\Counter.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\Counter\obj\Debug\netcoreapp2.1\Counter.pdb

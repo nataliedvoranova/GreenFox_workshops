@@ -1,0 +1,11 @@
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.csprojAssemblyReference.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.csproj.CoreCompileInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.AssemblyInfoInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.AssemblyInfo.cs
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.deps.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.runtimeconfig.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.runtimeconfig.dev.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.pdb
