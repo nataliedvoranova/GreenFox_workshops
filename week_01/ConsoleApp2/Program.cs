@@ -1,43 +1,24 @@
 ﻿using System;
 
-namespace GreenFox
+namespace TodoPrint
 {
-    class Program
+    public class TodoPrint
     {
-        static void Main()
+        public static void Main(string[] args)
         {
-            // Write a program that reads a number from the standard input, then draws a
-            // pyramid like this:
-            //
-            //
-            //    *
-            //   ***
-            //  *****
-            // *******
-            //
-            // The pyramid should have as many lines as the number was
+            string todoText = " - Buy milk\n";
+            // Add "My todo:" to the beginning of the todoText
+            // Add " - Download games" to the end of the todoText
+            // Add " - Diablo" to the end of the todoText but with indentation
 
-            Console.WriteLine("enter a number");
-            int rows = Int32.Parse(Console.ReadLine());
-            int temp = rows;
+            // Expected output:
 
-            Console.Write("\n");
+            // My todo:
+            //  - Buy milk
+            //  - Download games
+            //      - Diablo
 
-            for (int i = 1; i <= rows; i++)
-            {
-                 for (int j = 1; j < temp; j++)      //spaces
-                    Console.Write(" ");
-
-                temp--;
-               
-
-                for (int j = 1; j <= 2 * i - 1; j++) //stars
-                    Console.Write("*");
-                 Console.Write("\n");
-
-               
-            }
+            Console.WriteLine(todoText);
         }
     }
 }
-

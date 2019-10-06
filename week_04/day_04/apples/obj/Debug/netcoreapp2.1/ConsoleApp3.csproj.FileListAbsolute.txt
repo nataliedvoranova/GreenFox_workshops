@@ -1,0 +1,11 @@
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_02\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb

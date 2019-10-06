@@ -1,0 +1,11 @@
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\bin\Debug\netcoreapp2.1\sum.deps.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\bin\Debug\netcoreapp2.1\sum.runtimeconfig.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\bin\Debug\netcoreapp2.1\sum.runtimeconfig.dev.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\bin\Debug\netcoreapp2.1\sum.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\bin\Debug\netcoreapp2.1\sum.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\obj\Debug\netcoreapp2.1\sum.csprojAssemblyReference.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\obj\Debug\netcoreapp2.1\sum.csproj.CoreCompileInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\obj\Debug\netcoreapp2.1\sum.AssemblyInfoInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\obj\Debug\netcoreapp2.1\sum.AssemblyInfo.cs
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\obj\Debug\netcoreapp2.1\sum.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\sum\obj\Debug\netcoreapp2.1\sum.pdb

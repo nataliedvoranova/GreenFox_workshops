@@ -1,0 +1,17 @@
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\sum.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\bin\Debug\netcoreapp2.1\sum.pdb
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\User\User\Downloads\greenfox\GreenFox_workshops\week_04\day_04\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
