@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\Animal\\Animal.csproj": {}
+    "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\week_03\\day_03\\Animal\\Animal.csproj": {}
   },
   "projects": {
-    "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\Animal\\Animal.csproj": {
+    "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\week_03\\day_03\\Animal\\Animal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\Animal\\Animal.csproj",
+        "projectUniqueName": "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\week_03\\day_03\\Animal\\Animal.csproj",
         "projectName": "Animal",
-        "projectPath": "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\Animal\\Animal.csproj",
+        "projectPath": "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\week_03\\day_03\\Animal\\Animal.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\Animal\\obj\\",
+        "outputPath": "C:\\User\\User\\Downloads\\greenfox\\GreenFox_workshops\\week_03\\day_03\\Animal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

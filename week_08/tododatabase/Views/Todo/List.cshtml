@@ -1,0 +1,44 @@
+﻿@using tododatabase.Models
+@model List<Todo>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<body>
+    <form method="Post" action="search">
+        <label for="search">Search: </label>
+        <input id="search" name="search" type="text" placeholder="">
+        <button type="submit">OK</button>
+    </form>
+    <a href="addTodo">Add a new TODO!</a>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Urgent?</th>
+                <th>Done?</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+                    <td>@item.IsUrgent</td>
+                    <td>@item.IsDone</td>
+                    <td><a href="/todo/@item.Id/delete/">Delete</a></td>
+                    <td><a href="/todo/@item.Id/edit/">Edit</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

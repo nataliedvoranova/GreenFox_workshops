@@ -1,0 +1,33 @@
+﻿@using loginPage.Models
+@model Fox
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<body>
+    <img src="~/Images/greenfoximg.png" alt="GreenFox" width="200" height="200">
+    <p>@Model.Name </p>
+    @if (Model.Name != null)
+    {
+        <p>This fox knows @Model.listOfTricks.Count tricks.</p>
+        <h2>Known tricks</h2>
+        @if (Model.listOfTricks.Count == 0)
+        {
+            <p>This fox should learn more stuff... </p>
+        }
+        else
+        {
+            @foreach (var item in Model.listOfTricks)
+            {
+                <p>item</p> 
+            }
+        }
+    }
+
+<a href="/TrickCenter">Trick Center</a>
+
+
+</body>
+</html>

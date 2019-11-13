@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagramtests", "anagramtests.csproj", "{DBB94178-1125-48F3-B0EB-4A3AB3952341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject2", "..\XUnitTestProject2\XUnitTestProject2.csproj", "{F38AC456-D29E-4293-A1E9-BE4C8A55E881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB94178-1125-48F3-B0EB-4A3AB3952341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB94178-1125-48F3-B0EB-4A3AB3952341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB94178-1125-48F3-B0EB-4A3AB3952341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB94178-1125-48F3-B0EB-4A3AB3952341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38AC456-D29E-4293-A1E9-BE4C8A55E881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38AC456-D29E-4293-A1E9-BE4C8A55E881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38AC456-D29E-4293-A1E9-BE4C8A55E881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38AC456-D29E-4293-A1E9-BE4C8A55E881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {786C2511-2763-44C9-B513-CA85238E1576}
+	EndGlobalSection
+EndGlobal

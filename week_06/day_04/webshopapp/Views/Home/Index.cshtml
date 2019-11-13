@@ -1,0 +1,51 @@
+﻿@model List<Product>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<body>
+    <div id="anything">
+        <h1 class="title">My Shop</h1>
+        <hr noshade size="2" align="left" color="cornflowerblue" margin-top="-22px">
+        <nav>
+            <button class="btn">ONLY AVAILABLE</button>
+            <button class="btn">CHEAPEST FIRST</button>
+            <button class="btn">CONTAINS NIKE</button>
+            <button class="btn">AVERAGE STOCK</button>
+            <button class="btn">MOST EXPENSIVE AVAILABLE</button>
+        </nav>
+        <p id="searchfor">
+            Search for:
+        </p>
+        <div class="search">
+            <input class="srchplc" type="text" placeholder="...something like nike">
+            <button class="srchbtn">Search</button>
+        </div>
+
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Availability</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Product product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Description</td>
+                        <td>@product.Price</td>
+                        <td>@product.Available</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

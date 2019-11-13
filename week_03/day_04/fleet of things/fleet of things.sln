@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fleet of things", "fleet of things.csproj", "{1B56F661-B7CA-4623-8F82-431E75167BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B56F661-B7CA-4623-8F82-431E75167BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B56F661-B7CA-4623-8F82-431E75167BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B56F661-B7CA-4623-8F82-431E75167BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B56F661-B7CA-4623-8F82-431E75167BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372C8E23-A33D-4B94-8573-272335088DF1}
+	EndGlobalSection
+EndGlobal

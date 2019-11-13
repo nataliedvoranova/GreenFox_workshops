@@ -1,0 +1,28 @@
+﻿@using lionkingaccount.Models
+@model List<BankAccount>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Balance</th>
+                <th>Animal Type</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model[0].Name</td>
+                <td>@Model[0].Balance.00 Zebras</td>
+                <td>@Model[0].AnimalType </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

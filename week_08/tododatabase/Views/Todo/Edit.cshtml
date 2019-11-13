@@ -1,0 +1,23 @@
+﻿@using tododatabase.Models
+@model Todo
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<body>
+    <form method="post" action="/todo/@Model.Id/edit/">
+        <label for="Edit">Edit Todo: </label>
+        <input id="title" name="title" type="text" placeholder="">
+        <label for="Edit">Edit Description: </label>
+        <input id="description" name="description" type="text" placeholder="">
+        <label for="edit">Urgent?</label>
+        @Html.CheckBoxFor(m => Model.IsUrgent)
+        <label for="edit">Done?</label>
+        @Html.CheckBoxFor(m => Model.IsDone)
+        <button type="submit">Change</button>
+    </form>
+</body>
+</html>

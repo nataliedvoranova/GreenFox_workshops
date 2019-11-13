@@ -22,8 +22,6 @@ namespace XUnitTestProject1
             Assert.Equal(8, sumOperationsTwo.Sum(listOne));
         }
 
-
-
         [Theory]
         [InlineData(new int[4] {2, 2, 0, 4})]
         public void Test1 (int[] numbers)
@@ -42,10 +40,7 @@ namespace XUnitTestProject1
            
             
             SumOperations sumOperations = new SumOperations();
-            Assert.Equal(0 ,sumOperations.Sum(null));
-           
+            Assert.Equal(0 ,sumOperations.Sum(null)); 
         }
-
-
     }
 }
